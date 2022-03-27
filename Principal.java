@@ -18,7 +18,7 @@ public class Principal {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int numero1 = 6, numero2 = 3;
+        int numero1 = 12, numero2 = 6;
         Calculadora calculadora = new Calculadora();
 
         examensegundaeval(calculadora, numero1, numero2);
